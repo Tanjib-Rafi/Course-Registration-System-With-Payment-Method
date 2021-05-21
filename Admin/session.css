@@ -1,0 +1,32 @@
+.bg{
+    background-color: #003333;;
+  }
+.licolor
+{
+    background:#003333 ;
+    width:175px;
+}     
+body{
+  font-size: 13px;
+  background-image: url(../img/blueedition.jpg);
+  margin: 0;
+  background-repeat: no-repeat;
+  font-family: 'Roboto', sans-serif;
+}
+.listhover a{
+  color:white;
+  margin-bottom: 2px;
+  font-size: 10pt;
+  height: 28px;
+  font-weight: bold;;
+  padding-top: 6px;
+}
+.listhover a:hover{
+    background-color: #00c0c0;
+}
+.exclusive{
+  width: 170px;
+}
+.navhover li:hover{
+  background-color: #00c0c0;
+}
