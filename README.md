@@ -12,3 +12,5 @@ Password :: 123
 Student Login::
 Roll :: 99
 Password :: 123
+
+NOTE:: Do never use string concatenation to build SQL queries.You should use prepared statement to prevent sql injection.
